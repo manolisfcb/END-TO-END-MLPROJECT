@@ -1,0 +1,1 @@
+THE DATA NEEDS TO BE DOWNLOADED FROM THE FOLLOWING LINK:[ https://www.kaggle.com/datasets/ahmedshahriarsakib/traffic-prediction-forecasting](https://www.kaggle.com/datasets/gpxlcj/xtraffic)

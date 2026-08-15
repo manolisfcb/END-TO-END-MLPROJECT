@@ -1,0 +1,4 @@
+.venv/
+.env
+traffic-prediction-forecasting/Data/archive/
+traffic-prediction-forecasting/Data/archive.zip
