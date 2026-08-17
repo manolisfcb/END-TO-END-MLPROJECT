@@ -2,3 +2,6 @@
 .env
 traffic-prediction-forecasting/Data/archive/
 traffic-prediction-forecasting/Data/archive.zip
+*.csv
+*.h5
+traffic-prediction-forecasting/Data/
